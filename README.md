@@ -1,20 +1,19 @@
-# 💫 About Me:
+<h2 align="center">💫 About Me</h2>
 
-<table>
-  <tr>
-    <td>
-      🔭 I’m currently working on Full stack Development, Integrating LLMs<br>
-      👯 I’m looking to collaborate on Backend Dev Projects<br>
-      🤝 I’m looking for help with LLMs Powered Applications<br>
-      🌱 I’m currently learning LLMs, AI, Relational Databases, Real-Time Communications<br>
-      💬 Ask me about MERN<br>
-      ⚡ Fun fact: Loves to play chess! DM me to ask my ID
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" width="250" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="dev gif" width="250" align="right" />
+</div>
+
+<p>
+🔭 I’m currently working on <strong>Full Stack Development</strong>, integrating <strong>LLMs</strong><br>
+👯 I’m looking to collaborate on <strong>Backend Dev Projects</strong><br>
+🤝 I’m looking for help with <strong>LLM-powered Applications</strong><br>
+🌱 I’m currently learning <strong>LLMs, AI, Relational Databases, Real-Time Communications</strong><br>
+💬 Ask me about <strong>MERN</strong><br>
+⚡ Fun fact: Love to play <strong>chess</strong> — DM me for my ID!
+</p>
+
+
 
 
 ## 🌐 Socials:
