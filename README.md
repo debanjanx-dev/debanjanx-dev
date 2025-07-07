@@ -1,7 +1,7 @@
 <h2 align="center">💫 About Me</h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="dev gif" width="250" align="right" />
+  <img src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" alt="dev gif" height="350" width="350" align="right" />
 </div>
 
 <p>
