@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack Development , Integrating LLMs<br>👯 I’m looking to collaborate on Backend Dev Projects<br>🤝 I’m looking for help with LLms Powered Applications<br>🌱 I’m currently learning LLMS , AI , Relational Databases , RealTime Communications<br>💬 Ask me about MERN<br>⚡ Fun fact : Loves to Play chess ! Dm me to ask my id 
+
+<table>
+  <tr>
+    <td>
+      🔭 I’m currently working on Full stack Development, Integrating LLMs<br>
+      👯 I’m looking to collaborate on Backend Dev Projects<br>
+      🤝 I’m looking for help with LLMs Powered Applications<br>
+      🌱 I’m currently learning LLMs, AI, Relational Databases, Real-Time Communications<br>
+      💬 Ask me about MERN<br>
+      ⚡ Fun fact: Loves to play chess! DM me to ask my ID
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/78967360/170852240-49c451c2-5323-4d71-81fe-9a0c6bd6a23a.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
